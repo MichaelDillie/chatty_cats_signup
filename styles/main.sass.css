@@ -1,0 +1,100 @@
+.bg {
+  background-image: url("http://www.alsointocats.com/wp-content/uploads/2013/01/lordmeowington.png");
+  height: 30em;
+  background-size: cover;
+  padding-bottom: 10em; }
+
+nav {
+  background-color: #003333;
+  height: 5em;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0; }
+  nav .logo-name {
+    font-family: 'Pacifico', cursive;
+    color: #00A9A9;
+    font-size: 2em;
+    padding-top: .25em;
+    margin-left: 1em;
+    float: left; }
+  nav #catpic {
+    margin-left: 1%;
+    margin-top: .75em;
+    height: 3em;
+    width: 3em; }
+  nav .wrapper {
+    background-color: transparent;
+    height: 2em;
+    width: 8em;
+    float: right;
+    margin-top: 1.25em;
+    margin-right: 6em; }
+    nav .wrapper a {
+      font-family: 'Pacifico', cursive;
+      color: #00A9A9;
+      font-size: 1em;
+      float: right;
+      margin-right: .5em; }
+    nav .wrapper span {
+      font-family: 'Pacifico', cursive;
+      color: #00A9A9;
+      font-size: 1em;
+      margin-right: .5em;
+      float: right; }
+
+.signup-nav {
+  height: 30em;
+  width: 25em;
+  border: #003333 solid 0.25em;
+  margin: 10em auto 0 auto;
+  background-color: #D1FFE1; }
+  .signup-nav .title-bar {
+    background-color: #003333;
+    height: 5em;
+    width: 100%; }
+    .signup-nav .title-bar div {
+      font-family: 'Pacifico', cursive;
+      color: #00A9A9;
+      font-size: 2.25em;
+      padding-left: 3.75em;
+      float: left; }
+  .signup-nav #singnup-text {
+    font-size: larger;
+    font-family: 'Pacifico', cursive;
+    margin-top: 1em;
+    margin-left: 3em;
+    background-color: #EAF9F7;
+    width: 15em; }
+  .signup-nav #email-text {
+    font-size: larger;
+    font-family: 'Pacifico', cursive;
+    margin-top: 1em;
+    margin-left: 3em;
+    background-color: #EAF9F7;
+    width: 15em; }
+  .signup-nav #password-text {
+    font-size: larger;
+    font-family: 'Pacifico', cursive;
+    margin-top: 1em;
+    margin-left: 3em;
+    background-color: #EAF9F7;
+    width: 15em; }
+  .signup-nav #retyped-password {
+    font-size: larger;
+    font-family: 'Pacifico', cursive;
+    margin-top: 1em;
+    margin-left: 3em;
+    background-color: #EAF9F7;
+    width: 15em; }
+  .signup-nav button {
+    background-color: #003333;
+    color: #00A9A9;
+    font-size: 150%;
+    font-family: 'Pacifico', cursive;
+    border: none;
+    width: 5em;
+    height: 2em;
+    margin-top: 2em;
+    margin-left: 5em;
+    outline: none; }
